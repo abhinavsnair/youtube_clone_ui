@@ -1,3 +1,7 @@
+![Screenshot from 2022-10-18 00-04-09](https://user-images.githubusercontent.com/108852286/196256291-7d2d6d43-2eda-428e-a853-37dd3c8060fd.png)
+![Screenshot from 2022-10-18 00-04-00](https://user-images.githubusercontent.com/108852286/196256299-522e84ea-101c-407d-8407-30975a953d7c.png)
+![Screenshot from 2022-10-18 00-03-42](https://user-images.githubusercontent.com/108852286/196256309-f2829d6c-8b9e-4082-8e32-c26543b2a322.png)
+![Screenshot from 2022-10-18 00-02-51](https://user-images.githubusercontent.com/108852286/196256312-d763bb11-47d7-484c-b52c-2ddcb01a94d5.png)
 # youtube_clone_ui
 
 A new Flutter project.
